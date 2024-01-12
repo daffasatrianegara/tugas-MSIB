@@ -16,5 +16,5 @@ const test = (num) => {
     return ket
 }
 
-const hasil = prompt('input: ')
-console.log(test(hasil));
+const input = prompt('input: ')
+console.log(test(input));
